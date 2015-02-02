@@ -61,7 +61,7 @@ public class ThirdFragment extends Fragment {
         t38.setText("Grupo 2");
         t39.setText("I.Izuriaga - M.Menéndez: 7/6 7/5");
         t310.setText("I.Izuriaga - R.Montenegro: 7/5 6/2");
-        t311.setText("I.Izuriaga - P.Moreno: 6/7 2/6 5/7");
+        t311.setText("I.Izuriaga - P.Moreno: 6/7 2/6 5/7"); 
         t312.setText("P.Moreno - M.Menéndez: 6/3 6/2");
         t313.setText("P.Moreno - R.Montenegro: 4/6 0/6");
         t314.setText("R.Montenegro - M.Menéndez: 6/1 6/1");
