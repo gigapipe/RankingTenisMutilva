@@ -1,0 +1,5 @@
+C:\Users\fmelero\AndroidstudioProjects\RankingTenisMutilva\app\build\intermediates\classes\debug
+C:\Users\fmelero\AndroidstudioProjects\RankingTenisMutilva\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-3ec4b7614d4c6122fb9b2304d76663ccf58f6677.jar
+C:\Users\fmelero\AndroidstudioProjects\RankingTenisMutilva\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-550b26555e11756e92687efa17439f8297134227.jar
+C:\Users\fmelero\AndroidstudioProjects\RankingTenisMutilva\app\build\intermediates\pre-dexed\debug\classes-d8ede1f9674fc790c113524e5bda7ff3d93f13bc.jar
+C:\Users\fmelero\AndroidstudioProjects\RankingTenisMutilva\app\build\intermediates\pre-dexed\debug\classes-5093574cf2e44d1eb068f169e9084059537c392e.jar

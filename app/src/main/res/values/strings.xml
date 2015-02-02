@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RankingTenisMutilva</string>
+    <string name="action_settings">Settings</string>
+    <string name="bienvenida">Bienvenid@ al Ranking de Tenis de Mutilva </string>
+    <string name="jugadores">Jugadores</string>
+    <string name="grupos">Grupos</string>
+    <string name="acercade">Créditos</string>
+    <string name="clasificacion">Clasificación</string>
+    <string name="creditos">Esta aplicación ha sido desarrollada con el único 
+        fin de visualizar la información relativa al torneo provista mensualmente
+        por la organización de dicho evento. Esta aplicación se actualiza cada mes
+         y es posible que contenga errores de los cuales el abajo firmante no se hace responsable.</string>
+    <string name="contact">Felipe Melero</string>
+    <string name="contact2">gigapipe@gmail.com</string>
+    <string name="copyright">Todos los derechos reservados - 2015</string>
+    <string name="preferencias">Preferencias</string>
+    <string name="title_activity_creditos">Creditos</string>
+    <string name="hello_world">En construcción…</string>
+    <string name="title_activity_jugadores">Jugadores</string>
+    <string name="title_activity_grupos">Fases</string>
+    <string name="grupo1">Fase 1</string>
+    <string name="grupo2">Fase 2</string>
+    <string name="grupo3">Fase 3</string>
+    <string name="grupo4">Fase 4</string>
+    <string name="grupo5">Fase 5</string>
+    <string name="grupo6">Fase 6</string>
+    <string name="title_activity_fase2">Fase2</string>
+    <string name="title_activity_preferencias">Preferencias</string>
+    <string name="pg">G: Partidos ganados</string>
+    <string name="pp">P: Partidos perdidos</string>
+    <string name="pj">J: Partidos jugados</string>
+    <string name="pt">PT: Puntos</string>
+    <string name="pnj">NJ: Partidos no jugados</string>
+    <string name="handicap">H: Handicap grupo</string>
+    <string name="explicacion">Cálculo de puntos: Ganado(3 pts.),
+        Perdido (0 pts.), No jugado/lesión (1 pt.), Handicap: Grupo1 (+12), Grupo2 (+10), Grupo3 (+8),
+        Grupo4 (+6), Grupo5 (+4), Grupo6 (+2), Grupo7 (0)</string>
+
+</resources>

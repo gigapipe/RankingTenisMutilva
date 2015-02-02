@@ -1,0 +1,74 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context="org.rankingtenis.rankingtenismultiva"
+    android:weightSum="1"
+    android:background="#ffffffff">
+
+    <ImageView
+        android:layout_width="105dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/ic_launcher"
+        android:layout_weight="0.15" />
+
+    <TextView
+        style="@style/TextoRanking"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/bienvenida"
+        android:textSize="15sp" />
+
+    <TextView
+        style="@style/TextoRanking"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="2014/15"
+        android:id="@+id/textView"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:id="@+id/button1"
+        style="@style/TextoRanking.Botones"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="lanzarGrupos"
+        android:text="@string/grupos" />
+
+    <Button
+        android:id="@+id/button2"
+        style="@style/TextoRanking.Botones"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="lanzarClasificacion"
+        android:text="@string/clasificacion" />
+
+    <Button
+        android:id="@+id/button3"
+        style="@style/TextoRanking.Botones"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="lanzarJugadores"
+        android:text="@string/jugadores" />
+
+    <Button
+        android:id="@+id/button4"
+        style="@style/TextoRanking.Botones"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="lanzarCreditos"
+        android:text="@string/acercade" />
+
+</LinearLayout>
+
+
+
+    
+
+<!-- From: file:/C:/Users/fmelero/AndroidstudioProjects/RankingTenisMutilva/app/src/main/res/layout/activity_ranking.xml -->
